@@ -7,6 +7,7 @@ Tenho interesse em desenvolvimento web, automação de processos, análise de da
 Atualmente estudo diariamente para evoluir minhas habilidades em programação e construir projetos cada vez mais completos.
 
 Tecnologias que estou aprendendo
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=oColor=white
 4
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&r=white
