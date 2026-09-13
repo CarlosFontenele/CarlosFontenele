@@ -1,6 +1,4 @@
-# Carlos Fontenele
-
-> Estudante de Sistemas para Internet (UESPI).
+Estudante de Sistemas para Internet (UESPI).
 
 ###  Sobre
 * **Foco:** Desenvolvimento Web, Automação de Processos & Análise de Dados.
