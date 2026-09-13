@@ -1,6 +1,6 @@
 Hi there, I'm Carlos Fontenele
 
-Técnico de Distribuição na Equatorial Piauí & Graduando em **Tecnologia para Sistemas de Internet (UESPI)**.
+Estudante de **Tecnologia de Sistemas para Internet (UESPI)**.
 Entusiasta por código e  tecnologia, linhas de código e por resolver problemas reais através da programação.
 
  Áreas de Interesse & Foco
