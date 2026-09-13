@@ -1,15 +1,19 @@
-Hi there, I'm Carlos Fontenele
+# Carlos Fontenele
 
-Estudante de **Tecnologia de Sistemas para Internet (UESPI)**.
-Entusiasta por código e  tecnologia, linhas de código e por resolver problemas reais através da programação.
+> Técnico de Distribuição na Equatorial Piauí & Estudante de Sistemas para Internet (UESPI).
 
- Áreas de Interesse & Foco
- **Desenvolvimento Web:** Construção de aplicações modernas e funcionais.
- **Automação de Processos:** Otimizando tarefas e fluxos de trabalho.
- **Análise de Dados:** Transformando dados em insights valiosos.
- **Tech no Setor Elétrico:** Soluções tecnológicas aplicadas à energia e distribuição.
+---
 
-Jornada & Filosofia
- *"Cada commit é um passo. Cada repositório, um aprendizado."*
+### 💻 Sobre
+* **Foco:** Desenvolvimento Web, Automação de Processos & Análise de Dados.
+* **Aplicações:** Soluções tecnológicas focadas no Setor Elétrico.
+* **Objetivo:** Aprendizado diário e construção de projetos práticos.
 
-Estudo diariamente para evoluir minhas habilidades e construir projetos cada vez mais completos. Este perfil funciona como o diário de bordo da minha evolução tecnológica — sempre aberto a aprender, colaborar e compartilhar conhecimento com a comunidade dev.
+---
+
+### ⚡ Tech Stack
+`HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub`
+
+---
+
+📫 **Contato:** [LinkedIn](https://linkedin.com) | [E-mail](mailto:seu-email@email.com)
