@@ -1,17 +1,17 @@
 # Carlos Fontenele
 
-> Técnico de Distribuição na Equatorial Piauí & Estudante de Sistemas para Internet (UESPI).
+> Estudante de Sistemas para Internet (UESPI).
 
 ---
 
-### 💻 Sobre
+###  Sobre
 * **Foco:** Desenvolvimento Web, Automação de Processos & Análise de Dados.
 * **Aplicações:** Soluções tecnológicas focadas no Setor Elétrico.
 * **Objetivo:** Aprendizado diário e construção de projetos práticos.
 
 ---
 
-### ⚡ Tech Stack
+###  Tech Stack
 `HTML5` · `CSS3` · `JavaScript` · `Git` · `GitHub`
 
 ---
